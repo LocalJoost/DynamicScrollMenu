@@ -1,0 +1,36 @@
+# Lens Studio
+*.lsproj.backup
+.lsproject
+*.lsassets
+Cache/
+Logs/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*~
+
+# OS specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node modules (if using any build tools)
+node_modules/
+package-lock.json
+
+# Build artifacts
+dist/
+build/
+out/
+
+# Test files
+test-results/
+coverage/

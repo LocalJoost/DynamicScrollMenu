@@ -1,0 +1,62 @@
+[
+  {
+    "id": "item1",
+    "text": "Explore AR Filters",
+    "icon": null,
+    "description": "Browse through amazing AR filters"
+  },
+  {
+    "id": "item2",
+    "text": "My Collection",
+    "icon": null,
+    "description": "View your saved items"
+  },
+  {
+    "id": "item3",
+    "text": "Trending Now",
+    "icon": null,
+    "description": "See what's popular"
+  },
+  {
+    "id": "item4",
+    "text": "Face Effects",
+    "icon": null,
+    "description": "Try face tracking effects"
+  },
+  {
+    "id": "item5",
+    "text": "World Lenses",
+    "icon": null,
+    "description": "Place objects in your world"
+  },
+  {
+    "id": "item6",
+    "text": "Games",
+    "icon": null,
+    "description": "Play AR games"
+  },
+  {
+    "id": "item7",
+    "text": "Shopping",
+    "icon": null,
+    "description": "Try before you buy"
+  },
+  {
+    "id": "item8",
+    "text": "Settings",
+    "icon": null,
+    "description": "Configure your preferences"
+  },
+  {
+    "id": "item9",
+    "text": "Help & Support",
+    "icon": null,
+    "description": "Get assistance"
+  },
+  {
+    "id": "item10",
+    "text": "About",
+    "icon": null,
+    "description": "Learn more about this lens"
+  }
+]
