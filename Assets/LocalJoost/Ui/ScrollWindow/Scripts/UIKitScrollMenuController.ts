@@ -9,7 +9,7 @@ import Event from "SpectaclesInteractionKit.lspkg/Utils/Event";
 export class UIKitScrollMenuController extends BaseScriptComponent {
     @input yOffset: number = 5;
     @input columnSize: number = 4;
-    @input scrollButtonPrefab: ObjectPrefab
+    @input scrollButtonPrefab: ObjectPrefab;
     @input scrollWindow: ScrollWindow;
     @input menuRoot: SceneObject;
     @input closeButton: BaseButton;

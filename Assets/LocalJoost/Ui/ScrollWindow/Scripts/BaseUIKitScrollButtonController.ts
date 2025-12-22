@@ -19,7 +19,7 @@ export class BaseUIKitScrollButtonController extends BaseScriptComponent {
             this.uiKitButton.onHoverExit.add(() => this.onHoveredEvent.invoke(false));
             this.uiKitButton.onTriggerDown.add(() => this.onButtonPressedEvent.invoke(scrollButtonData));
             this.buttonText.text = scrollButtonData.buttonText;
-            this.applyCustomSettings(scrollButtonData)
+            this.applyCustomSettings(scrollButtonData);
         }
     }
 
